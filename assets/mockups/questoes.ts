@@ -147,7 +147,7 @@ export const questoes = [
   {
     id: 25,
     pergunta: "Qual a cor do cavalo branco de napoleão?",
-    respostas: [""BRANC○", "BRAMC0", "WH|TE", "WH!TE","BRANC○", "BRAMCO", "BRACO", "BRANCO","BLANC○", "BRAMC○", "BLAMCO", "BRANC○""],
+    respostas: ["BRANC○", "BRAMC0", "WH|TE", "WH!TE","BRANC○", "BRAMCO", "BRACO", "BRANCO","BLANC○", "BRAMC○", "BLAMCO", "BRANC○"],
     certa: 8
   }
 ];
